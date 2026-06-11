@@ -1,4 +1,4 @@
-﻿Nome;Idade;Valor;Inadimplencia
+﻿nome,idade,valor,inadimplente
 Rodrigo Souza;19;7441.35;Não
 Carlos Nascimento;24;6799.32;Não
 Pedro Barbosa;45;414.65;Sim
